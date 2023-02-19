@@ -1,2 +1,7 @@
 # Sporto-s-Wellness
-This is a website designed to prompt physical and mental wellness. It offers help to people looking to make a positive change in their lives. 
+file: About Us - this contains the html and css file for the "about us" page.
+file: Mental - this contains the html and css file for the "mental(wellness)" page.
+file: Nutrition - this contains the html and css file for the "nutrition" page.
+file: Physical - this contains the html and css file for the "physical" page.
+file: Sporto folder - this contains the html and css file for the "home" page.
+file: Sporto Wellness-logos - this contains the png and jpg file for the logos used in throughout the website.
